@@ -217,6 +217,7 @@ figure {
             color: #2c98f0; }
 
 .container-wrap {
+  font-size: medium;
   max-width: 1170px;
   margin: 0 auto; }
 
